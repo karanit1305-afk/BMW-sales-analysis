@@ -62,5 +62,8 @@ Cross-Filtering Visualizations
 Data Cleaning using Power Query
 ETL Pipeline Development
 Data Transformation & Standardization
+
+
+example overview of dashbord : https://github.com/karanit1305-afk/BMW-sales-analysis/blob/main/image.png
 Relational Data Modeling
 Custom DAX Measures & Calculations
